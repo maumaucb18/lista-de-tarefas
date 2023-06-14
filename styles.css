@@ -90,6 +90,16 @@ justify-content: center;
   cursor: pointer;
   display:flex;
 }
+
+.copyright{
+  display: flex;
+  margin-top: 10px;
+  color: #cebdda;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  
+}
 /*class error*/
 .error{
   border: 2px solid red !important;
